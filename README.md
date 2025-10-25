@@ -69,16 +69,6 @@ I'm a passionate Full Stack Developer from India specializing in Python-based we
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=nishad-koormath&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15)
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishad-koormath&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF)](https://github.com/nishad-koormath)
