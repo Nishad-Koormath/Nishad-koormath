@@ -59,12 +59,12 @@ I'm a passionate Full Stack Developer from India specializing in Python-based we
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishad-koormath&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishad-koormath&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+![GitHub Stats](https://github-readme-stats-omega-eight-61.vercel.app/api?username=nishad-koormath&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishad-koormath&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+![Top Languages](https://github-readme-stats-omega-eight-61.vercel.app/api/top-langs/?username=nishad-koormath&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nishad-koormath&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
 
 </div>
 
@@ -94,18 +94,3 @@ class NishadKoormath:
 
 me = NishadKoormath()
 me.say_hi()
-```
-
----
-
-<div align="center">
-
-### 💬 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities.
-
-![Profile Views](https://komarev.com/ghpvc/?username=nishad-koormath&color=F85D7F&style=for-the-badge)
-
-**⭐ From [Nishad Koormath](https://github.com/nishad-koormath)**
-
-</div>
